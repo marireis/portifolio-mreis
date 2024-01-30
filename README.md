@@ -21,5 +21,5 @@
 
 Veja que legal como fica a página inicial do repositório:
 
-![Alt text](image.png)
+![Pagina Inicial](assets/tela-inicial.png)
 
