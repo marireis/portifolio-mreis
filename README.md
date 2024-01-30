@@ -1,6 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio - Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/marireis/portifolio-mreis/blob/main/assets/Imagem.png)
+![image](https://github.com/marireis/portifolio-mreis/blob/main/assets/image.png?raw=true)
 
 ## Ferramentas utilizadas:
 
@@ -18,6 +18,8 @@
 
 ```
 
+<<<<<<< HEAD
 Veja que legal como fica a página inicial do repositório:
 
 ![Alt text](image.png)
+=======
