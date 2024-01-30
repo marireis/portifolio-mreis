@@ -17,9 +17,3 @@
 ### Linkedin: https://www.linkedin.com/in/marina-reis-27229168/
 
 ```
-
-
-Veja que legal como fica a página inicial do repositório:
-
-![Pagina Inicial](assets/tela-inicial.png)
-
